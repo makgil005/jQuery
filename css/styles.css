@@ -1,0 +1,17 @@
+
+
+#sun_show{
+  display:none;
+}
+
+#cloudy_show {
+  display:none;
+}
+
+.clickable {
+  cursor:pointer;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
